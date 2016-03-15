@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+  padding-left: 100px;
+}
+.bar {
+  display: inline-block;
+  fill: tomato;
+}
+#barChart {
+  width: 600px;
+  height: 250px;
+  background-color: #EFE;
+}
